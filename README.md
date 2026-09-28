@@ -25,6 +25,7 @@ The main objectives of this experiment are:
 ---
 
 ## 3. VM vs Container
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/67ea0dc5-0d38-4b8b-a7f7-ed4c52dfa739" />
 
 ### Virtual Machine
 
