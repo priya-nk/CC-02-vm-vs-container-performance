@@ -315,10 +315,27 @@ Throughput stops growing after 2 threads because only 2 cores are available. Lat
 ---
 
 ## 9. Graphs
+### Overall Dashboard
 <img width="2400" height="2250" alt="image" src="https://github.com/user-attachments/assets/dc178bcc-3492-49b1-9a42-6ee523496e5f" />
 
+### CPU Scalability
+<img width="3000" height="1100" alt="cpu_scalability" src="https://github.com/user-attachments/assets/2196509f-f7fd-4e02-b754-125ee9584c43" />
 
-Other charts are in [`figures/`](figures/) and raw screenshots in [`screenshots/`](screenshots/).
+
+### Memory Performance
+<img width="3000" height="1100" alt="memory_performance" src="https://github.com/user-attachments/assets/f0df7efd-3efa-4b58-b955-70f9de1b073c" />
+
+
+### Disk I/O Performance
+<img width="3000" height="1100" alt="disk_io_performace" src="https://github.com/user-attachments/assets/7a32cbd4-ce83-4e8f-963a-5644e118fbdb" />
+
+
+### Network Performance
+<img width="3000" height="1100" alt="network_performance" src="https://github.com/user-attachments/assets/bcea8921-13f3-405a-b53b-173bb1eed2a8" />
+
+
+### FastAPI Performance
+<img width="3000" height="1100" alt="fastapi_performance" src="https://github.com/user-attachments/assets/d0315414-fca7-4946-a0be-1b25c96ca0fe" />
 
 ---
 
