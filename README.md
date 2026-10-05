@@ -122,19 +122,17 @@ The experiment uses equivalent resource configurations wherever possible.
 ### VM
 
 * Virtualization: Virtual Machine
-* CPU: [Specify CPU allocation]
-* Memory: [Specify RAM]
-* Storage: [Specify disk configuration]
-* Operating System: [Specify OS]
-* Hypervisor: [Specify hypervisor]
+* CPU: 4 cores
+* Memory: 8 GB
+* Storage: 60 GB
+* Operating System: Ubuntu
+* Hypervisor: Type - 2
 
 ### Container
 
 * Container Technology: Docker
-* CPU Limit: [Specify CPU limit]
-* Memory Limit: [Specify memory limit]
-* Storage: [Specify storage configuration]
-* Base Image: [Specify image]
+* Memory Limit: 8 GB
+* Storage: 60 GB
 
 ### Host System
 
