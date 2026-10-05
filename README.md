@@ -306,8 +306,6 @@ Throughput stops growing after 2 threads because only 2 cores are available. Lat
 ---
 
 ## 9. Graphs
-### Overall Dashboard
-<img width="2400" height="2250" alt="image" src="https://github.com/user-attachments/assets/dc178bcc-3492-49b1-9a42-6ee523496e5f" />
 
 ### CPU Scalability
 <img width="3000" height="1100" alt="cpu_scalability" src="https://github.com/user-attachments/assets/2196509f-f7fd-4e02-b754-125ee9584c43" />
