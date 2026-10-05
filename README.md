@@ -134,13 +134,6 @@ The experiment uses equivalent resource configurations wherever possible.
 * Memory Limit: 8 GB
 * Storage: 60 GB
 
-### Host System
-
-* CPU: [Specify CPU]
-* RAM: [Specify RAM]
-* Storage: [Specify SSD/HDD]
-* Operating System: [Specify OS]
-
 ---
 
 ## 6. Benchmark Tools
